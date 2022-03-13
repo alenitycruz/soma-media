@@ -1,1 +1,1 @@
-soma e media de números
+# SOMA E MÉDIA DE NÚMEROS
